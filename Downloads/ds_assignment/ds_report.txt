@@ -1,0 +1,45 @@
+
+BITCOIN TRADER SENTIMENT ANALYSIS - EXECUTIVE SUMMARY
+======================================================================
+
+Dataset Overview:
+- Total Trades Analyzed: 211,224
+- Unique Traders: 32
+- Date Range: 2023-05-01 to 2025-05-01
+- Unique Coins: 246
+
+Key Findings:
+
+1. Profitability by Sentiment:
+   • Fear Avg P&L: $49.21
+   • Greed Avg P&L: $54.35
+   • Performance Differential: +10.4%
+
+2. Win Rate Analysis:
+   • Fear Win Rate: 40.79%
+   • Greed Win Rate: 42.03%
+   • Overall Win Rate: 41.13%
+
+3. Position Sizing:
+   • Fear Avg Size: $7,182.01
+   • Greed Avg Size: $4,575.10
+   • Size Difference: -36.3%
+
+4. Best Trading Times:
+   • Optimal Session: Morning
+   • Best Performing Day Type: Weekend
+
+5. Top Performing Assets:
+   • Best in Fear: PNUT
+   • Best in Greed: PEOPLE
+
+Strategic Recommendations:
+1. Adopt sentiment-aware position sizing
+2. Optimize trading during Morning sessions
+3. Implement coin-specific strategies based on sentiment
+4. Monitor sentiment extremes for reversal opportunities
+5. Maintain 38.8% win rate benchmark
+
+Statistical Significance:
+- Mann-Whitney U Test p-value: 0.000874
+- Statistically significant difference between Fear and Greed trading outcomes
